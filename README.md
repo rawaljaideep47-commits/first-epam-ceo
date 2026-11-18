@@ -1,4 +1,5 @@
 # first-epam-ceo
+Student Management System
 project structure 
 smart-task-manager/
 ├── index.html
